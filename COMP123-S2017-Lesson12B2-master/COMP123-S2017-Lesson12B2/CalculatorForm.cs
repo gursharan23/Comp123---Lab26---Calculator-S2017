@@ -13,7 +13,7 @@ using System.Windows.Forms;
  * Name: Gursharan Singh
  * Date: August 10, 2017
  * Description: Calculator Demo Project
- * Version: 1.4 Refactored CalculatorForm class
+ * Version: 1.5 Refactored CalculatorForm class
  */
 
 namespace COMP123_S2017_Lesson12B2
@@ -266,7 +266,7 @@ namespace COMP123_S2017_Lesson12B2
                             }
                             else
                             {
-                                this.ResultTextBox.Text = "Can't be divided by zero";
+                                this.ResultTextBox.Text = "Can't be divisile by zero";
                             }
                         }
                         catch (Exception exception)
