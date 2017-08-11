@@ -1,0 +1,10 @@
+C:\Users\MyPC\Desktop\COMP123-S2017-Lesson12B2-master\COMP123-S2017-Lesson12B2\bin\Debug\COMP123-S2017-Lesson12B2.exe.config
+C:\Users\MyPC\Desktop\COMP123-S2017-Lesson12B2-master\COMP123-S2017-Lesson12B2\bin\Debug\COMP123-S2017-Lesson12B2.exe
+C:\Users\MyPC\Desktop\COMP123-S2017-Lesson12B2-master\COMP123-S2017-Lesson12B2\bin\Debug\COMP123-S2017-Lesson12B2.pdb
+C:\Users\MyPC\Desktop\COMP123-S2017-Lesson12B2-master\COMP123-S2017-Lesson12B2\obj\Debug\COMP123-S2017-Lesson12B2.csprojResolveAssemblyReference.cache
+C:\Users\MyPC\Desktop\COMP123-S2017-Lesson12B2-master\COMP123-S2017-Lesson12B2\obj\Debug\COMP123_S2017_Lesson12B2.CalculatorForm.resources
+C:\Users\MyPC\Desktop\COMP123-S2017-Lesson12B2-master\COMP123-S2017-Lesson12B2\obj\Debug\COMP123_S2017_Lesson12B2.Properties.Resources.resources
+C:\Users\MyPC\Desktop\COMP123-S2017-Lesson12B2-master\COMP123-S2017-Lesson12B2\obj\Debug\COMP123_S2017_Lesson12B2.SplashForm.resources
+C:\Users\MyPC\Desktop\COMP123-S2017-Lesson12B2-master\COMP123-S2017-Lesson12B2\obj\Debug\COMP123-S2017-Lesson12B2.csproj.GenerateResource.Cache
+C:\Users\MyPC\Desktop\COMP123-S2017-Lesson12B2-master\COMP123-S2017-Lesson12B2\obj\Debug\COMP123-S2017-Lesson12B2.exe
+C:\Users\MyPC\Desktop\COMP123-S2017-Lesson12B2-master\COMP123-S2017-Lesson12B2\obj\Debug\COMP123-S2017-Lesson12B2.pdb
